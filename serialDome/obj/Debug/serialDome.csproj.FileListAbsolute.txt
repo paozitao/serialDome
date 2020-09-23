@@ -1,0 +1,14 @@
+D:\project\C#\test\serialDome\serialDome\serialDome\bin\Debug\serialDome.exe.config
+D:\project\C#\test\serialDome\serialDome\serialDome\bin\Debug\serialDome.exe
+D:\project\C#\test\serialDome\serialDome\serialDome\bin\Debug\serialDome.pdb
+D:\project\C#\test\serialDome\serialDome\serialDome\obj\Debug\serialDome.csprojAssemblyReference.cache
+D:\project\C#\test\serialDome\serialDome\serialDome\obj\Debug\serialDome.Form1.resources
+D:\project\C#\test\serialDome\serialDome\serialDome\obj\Debug\serialDome.Properties.Resources.resources
+D:\project\C#\test\serialDome\serialDome\serialDome\obj\Debug\serialDome.csproj.GenerateResource.cache
+D:\project\C#\test\serialDome\serialDome\serialDome\obj\Debug\serialDome.csproj.CoreCompileInputs.cache
+D:\project\C#\test\serialDome\serialDome\serialDome\obj\Debug\serialDome.exe
+D:\project\C#\test\serialDome\serialDome\serialDome\obj\Debug\serialDome.pdb
+D:\project\C#\test\serialDome\serialDome\serialDome\bin\Debug\MetroFramework.Design.dll
+D:\project\C#\test\serialDome\serialDome\serialDome\bin\Debug\MetroFramework.dll
+D:\project\C#\test\serialDome\serialDome\serialDome\bin\Debug\MetroFramework.Fonts.dll
+D:\project\C#\test\serialDome\serialDome\serialDome\obj\Debug\serialDome.csproj.CopyComplete
