@@ -12,3 +12,17 @@ D:\project\C#\test\serialDome\serialDome\serialDome\bin\Debug\MetroFramework.Des
 D:\project\C#\test\serialDome\serialDome\serialDome\bin\Debug\MetroFramework.dll
 D:\project\C#\test\serialDome\serialDome\serialDome\bin\Debug\MetroFramework.Fonts.dll
 D:\project\C#\test\serialDome\serialDome\serialDome\obj\Debug\serialDome.csproj.CopyComplete
+C:\Project\serialDome\serialDome\bin\Debug\serialDome.exe.config
+C:\Project\serialDome\serialDome\bin\Debug\serialDome.exe
+C:\Project\serialDome\serialDome\bin\Debug\serialDome.pdb
+C:\Project\serialDome\serialDome\bin\Debug\MetroFramework.Design.dll
+C:\Project\serialDome\serialDome\bin\Debug\MetroFramework.dll
+C:\Project\serialDome\serialDome\bin\Debug\MetroFramework.Fonts.dll
+C:\Project\serialDome\serialDome\obj\Debug\serialDome.csprojAssemblyReference.cache
+C:\Project\serialDome\serialDome\obj\Debug\serialDome.Form1.resources
+C:\Project\serialDome\serialDome\obj\Debug\serialDome.Properties.Resources.resources
+C:\Project\serialDome\serialDome\obj\Debug\serialDome.csproj.GenerateResource.cache
+C:\Project\serialDome\serialDome\obj\Debug\serialDome.csproj.CoreCompileInputs.cache
+C:\Project\serialDome\serialDome\obj\Debug\serialDome.csproj.CopyComplete
+C:\Project\serialDome\serialDome\obj\Debug\serialDome.exe
+C:\Project\serialDome\serialDome\obj\Debug\serialDome.pdb
