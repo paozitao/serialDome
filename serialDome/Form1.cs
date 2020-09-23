@@ -71,11 +71,7 @@ namespace serialDome
 		//页面加载初始化
 		private void Form1_Load(object sender, EventArgs e)
 		{
-			//导入系统串口
-			foreach (string vPortName in SerialPort.GetPortNames())
-			{
-				sw_com.Items.Add(vPortName);
-			}
+
 
 			chart1.Series[0].Points.AddY(0);
 
@@ -171,6 +167,7 @@ namespace serialDome
 			{
 				try
 				{
+					master.PortName = sw_com.Text;
 					master.Open();
 					//清除接收缓存区
 					master.DiscardInBuffer();
@@ -327,6 +324,14 @@ namespace serialDome
 			
 		}
 
-
-	}
+        private void sw_com_Click(object sender, EventArgs e)
+        {
+			sw_com.Items.Clear();
+			//导入系统串口
+			foreach (string vPortName in SerialPort.GetPortNames())
+			{
+				sw_com.Items.Add(vPortName);
+			}
+		}
+    }
 }

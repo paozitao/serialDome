@@ -209,6 +209,7 @@
             this.sw_com.Name = "sw_com";
             this.sw_com.Size = new System.Drawing.Size(133, 31);
             this.sw_com.TabIndex = 0;
+            this.sw_com.Click += new System.EventHandler(this.sw_com_Click);
             // 
             // metroPanel1
             // 
@@ -219,7 +220,7 @@
             this.metroPanel1.HorizontalScrollbarHighlightOnWheel = false;
             this.metroPanel1.HorizontalScrollbarSize = 12;
             this.metroPanel1.Location = new System.Drawing.Point(15, 25);
-            this.metroPanel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.metroPanel1.Margin = new System.Windows.Forms.Padding(4);
             this.metroPanel1.Name = "metroPanel1";
             this.metroPanel1.Size = new System.Drawing.Size(492, 58);
             this.metroPanel1.TabIndex = 11;
@@ -541,7 +542,7 @@
             legend1.Name = "Legend1";
             this.chart1.Legends.Add(legend1);
             this.chart1.Location = new System.Drawing.Point(272, 15);
-            this.chart1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.chart1.Margin = new System.Windows.Forms.Padding(4);
             this.chart1.Name = "chart1";
             series1.ChartArea = "ChartArea1";
             series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
@@ -795,7 +796,7 @@
             this.panel2.Controls.Add(this.button3);
             this.panel2.Controls.Add(this.button2);
             this.panel2.Location = new System.Drawing.Point(13, 94);
-            this.panel2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel2.Margin = new System.Windows.Forms.Padding(4);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(118, 337);
             this.panel2.TabIndex = 14;
@@ -871,7 +872,7 @@
             this.pn_set.Controls.Add(this.groupBox8);
             this.pn_set.Controls.Add(this.groupBox9);
             this.pn_set.Location = new System.Drawing.Point(11, 445);
-            this.pn_set.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pn_set.Margin = new System.Windows.Forms.Padding(4);
             this.pn_set.Name = "pn_set";
             this.pn_set.Size = new System.Drawing.Size(774, 277);
             this.pn_set.TabIndex = 15;
@@ -898,7 +899,7 @@
             // set_rate_r
             // 
             this.set_rate_r.Location = new System.Drawing.Point(129, 78);
-            this.set_rate_r.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.set_rate_r.Margin = new System.Windows.Forms.Padding(4);
             this.set_rate_r.Name = "set_rate_r";
             this.set_rate_r.Size = new System.Drawing.Size(143, 31);
             this.set_rate_r.TabIndex = 9;
@@ -906,7 +907,7 @@
             // set_rate_t
             // 
             this.set_rate_t.Location = new System.Drawing.Point(129, 36);
-            this.set_rate_t.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.set_rate_t.Margin = new System.Windows.Forms.Padding(4);
             this.set_rate_t.Name = "set_rate_t";
             this.set_rate_t.Size = new System.Drawing.Size(143, 31);
             this.set_rate_t.TabIndex = 8;
@@ -1024,7 +1025,7 @@
             // set_dis
             // 
             this.set_dis.Location = new System.Drawing.Point(191, 31);
-            this.set_dis.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.set_dis.Margin = new System.Windows.Forms.Padding(4);
             this.set_dis.Name = "set_dis";
             this.set_dis.Size = new System.Drawing.Size(168, 31);
             this.set_dis.TabIndex = 9;
@@ -1090,7 +1091,7 @@
             // set_rate
             // 
             this.set_rate.Location = new System.Drawing.Point(131, 68);
-            this.set_rate.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.set_rate.Margin = new System.Windows.Forms.Padding(4);
             this.set_rate.Name = "set_rate";
             this.set_rate.Size = new System.Drawing.Size(143, 31);
             this.set_rate.TabIndex = 7;
@@ -1098,7 +1099,7 @@
             // set_ratio
             // 
             this.set_ratio.Location = new System.Drawing.Point(131, 28);
-            this.set_ratio.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.set_ratio.Margin = new System.Windows.Forms.Padding(4);
             this.set_ratio.Name = "set_ratio";
             this.set_ratio.Size = new System.Drawing.Size(143, 31);
             this.set_ratio.TabIndex = 6;
@@ -1426,7 +1427,7 @@
             legend2.Name = "Legend1";
             this.chart2.Legends.Add(legend2);
             this.chart2.Location = new System.Drawing.Point(272, 15);
-            this.chart2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.chart2.Margin = new System.Windows.Forms.Padding(4);
             this.chart2.Name = "chart2";
             series2.ChartArea = "ChartArea1";
             series2.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
@@ -1666,7 +1667,7 @@
             // 
             this.pictureBox1.Image = global::serialDome.Properties.Resources.logo1;
             this.pictureBox1.Location = new System.Drawing.Point(597, 14);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(68, 62);
             this.pictureBox1.TabIndex = 10;
