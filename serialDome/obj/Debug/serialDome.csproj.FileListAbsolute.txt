@@ -12,3 +12,68 @@ D:\project\C#\test\serialDome\serialDome\serialDome\bin\Debug\MetroFramework.Des
 D:\project\C#\test\serialDome\serialDome\serialDome\bin\Debug\MetroFramework.dll
 D:\project\C#\test\serialDome\serialDome\serialDome\bin\Debug\MetroFramework.Fonts.dll
 D:\project\C#\test\serialDome\serialDome\serialDome\obj\Debug\serialDome.csproj.CopyComplete
+<<<<<<< HEAD
+D:\项目资料\激光通信\serialDome\serialDome\bin\Debug\serialDome.exe.config
+D:\项目资料\激光通信\serialDome\serialDome\bin\Debug\serialDome.exe
+D:\项目资料\激光通信\serialDome\serialDome\bin\Debug\serialDome.pdb
+D:\项目资料\激光通信\serialDome\serialDome\bin\Debug\MetroFramework.Design.dll
+D:\项目资料\激光通信\serialDome\serialDome\bin\Debug\MetroFramework.dll
+D:\项目资料\激光通信\serialDome\serialDome\bin\Debug\MetroFramework.Fonts.dll
+D:\项目资料\激光通信\serialDome\serialDome\obj\Debug\serialDome.csprojAssemblyReference.cache
+D:\项目资料\激光通信\serialDome\serialDome\obj\Debug\serialDome.Form1.resources
+D:\项目资料\激光通信\serialDome\serialDome\obj\Debug\serialDome.Properties.Resources.resources
+D:\项目资料\激光通信\serialDome\serialDome\obj\Debug\serialDome.csproj.GenerateResource.cache
+D:\项目资料\激光通信\serialDome\serialDome\obj\Debug\serialDome.csproj.CopyComplete
+D:\项目资料\激光通信\serialDome\serialDome\obj\Debug\serialDome.exe
+D:\项目资料\激光通信\serialDome\serialDome\obj\Debug\serialDome.pdb
+C:\Project\serialDome (2)\serialDome\obj\Debug\serialDome.csprojAssemblyReference.cache
+C:\Project\serialDome (2)\serialDome\obj\Debug\serialDome.Form1.resources
+C:\Project\serialDome (2)\serialDome\obj\Debug\serialDome.Properties.Resources.resources
+C:\Project\serialDome (2)\serialDome\obj\Debug\serialDome.csproj.GenerateResource.cache
+C:\Project\serialDome (2)\serialDome\obj\Debug\serialDome.csproj.CoreCompileInputs.cache
+C:\Project\serialDome (2)\serialDome\obj\Debug\serialDome.exe
+C:\Project\serialDome (2)\serialDome\obj\Debug\serialDome.pdb
+C:\Project\serialDome (2)\serialDome\bin\Debug\serialDome.exe.config
+C:\Project\serialDome (2)\serialDome\bin\Debug\serialDome.exe
+C:\Project\serialDome (2)\serialDome\bin\Debug\serialDome.pdb
+C:\Project\serialDome (2)\serialDome\bin\Debug\MetroFramework.Design.dll
+C:\Project\serialDome (2)\serialDome\bin\Debug\MetroFramework.dll
+C:\Project\serialDome (2)\serialDome\bin\Debug\MetroFramework.Fonts.dll
+C:\Project\serialDome (2)\serialDome\obj\Debug\serialDome.csproj.CopyComplete
+C:\Project\serialDome2.0\serialDome\bin\Debug\serialDome.exe.config
+C:\Project\serialDome2.0\serialDome\bin\Debug\serialDome.exe
+C:\Project\serialDome2.0\serialDome\bin\Debug\serialDome.pdb
+C:\Project\serialDome2.0\serialDome\bin\Debug\MetroFramework.Design.dll
+C:\Project\serialDome2.0\serialDome\bin\Debug\MetroFramework.dll
+C:\Project\serialDome2.0\serialDome\bin\Debug\MetroFramework.Fonts.dll
+C:\Project\serialDome2.0\serialDome\obj\Debug\serialDome.Form1.resources
+C:\Project\serialDome2.0\serialDome\obj\Debug\serialDome.Properties.Resources.resources
+C:\Project\serialDome2.0\serialDome\obj\Debug\serialDome.csproj.GenerateResource.cache
+C:\Project\serialDome2.0\serialDome\obj\Debug\serialDome.csproj.CoreCompileInputs.cache
+C:\Project\serialDome2.0\serialDome\obj\Debug\serialDome.csproj.CopyComplete
+C:\Project\serialDome2.0\serialDome\obj\Debug\serialDome.exe
+C:\Project\serialDome2.0\serialDome\obj\Debug\serialDome.pdb
+C:\Project\serialDome2.0\serialDome\bin\Debug\ClosedXML.dll
+C:\Project\serialDome2.0\serialDome\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Project\serialDome2.0\serialDome\bin\Debug\ExcelNumberFormat.dll
+C:\Project\serialDome2.0\serialDome\bin\Debug\ClosedXML.pdb
+C:\Project\serialDome2.0\serialDome\bin\Debug\ClosedXML.xml
+C:\Project\serialDome2.0\serialDome\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Project\serialDome2.0\serialDome\bin\Debug\ExcelNumberFormat.xml
+C:\Project\serialDome2.0\serialDome\obj\Debug\serialDome.csprojAssemblyReference.cache
+=======
+C:\Project\serialDome\serialDome\bin\Debug\serialDome.exe.config
+C:\Project\serialDome\serialDome\bin\Debug\serialDome.exe
+C:\Project\serialDome\serialDome\bin\Debug\serialDome.pdb
+C:\Project\serialDome\serialDome\bin\Debug\MetroFramework.Design.dll
+C:\Project\serialDome\serialDome\bin\Debug\MetroFramework.dll
+C:\Project\serialDome\serialDome\bin\Debug\MetroFramework.Fonts.dll
+C:\Project\serialDome\serialDome\obj\Debug\serialDome.csprojAssemblyReference.cache
+C:\Project\serialDome\serialDome\obj\Debug\serialDome.Form1.resources
+C:\Project\serialDome\serialDome\obj\Debug\serialDome.Properties.Resources.resources
+C:\Project\serialDome\serialDome\obj\Debug\serialDome.csproj.GenerateResource.cache
+C:\Project\serialDome\serialDome\obj\Debug\serialDome.csproj.CoreCompileInputs.cache
+C:\Project\serialDome\serialDome\obj\Debug\serialDome.csproj.CopyComplete
+C:\Project\serialDome\serialDome\obj\Debug\serialDome.exe
+C:\Project\serialDome\serialDome\obj\Debug\serialDome.pdb
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
