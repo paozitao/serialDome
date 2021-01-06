@@ -104,6 +104,7 @@ namespace serialDome
 		private void Form1_Load(object sender, EventArgs e)
 		{
 
+<<<<<<< HEAD
 			int a = Convert.ToInt32(thres.Text.ToString().Split('m')[0]);
 			Console.WriteLine(a);
 			//导入系统串口
@@ -113,6 +114,16 @@ namespace serialDome
 			}
 			info_interface.SetModu(isOOK.Checked);
         }
+=======
+
+			chart1.Series[0].Points.AddY(0);
+
+			//从机和设置panel的位置初始化，默认不可见
+			pn_set.Location = new System.Drawing.Point(105, 75);
+			pn_slave.Location = new System.Drawing.Point(105, 75);
+
+		}
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
 
 
 
@@ -211,7 +222,11 @@ namespace serialDome
 			{
 				try
 				{
+<<<<<<< HEAD
                     master.PortName = sw_com.Text;
+=======
+					master.PortName = sw_com.Text;
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
 					master.Open();
 					//清除接收缓存区
 					master.DiscardInBuffer();
@@ -914,6 +929,7 @@ namespace serialDome
 			
 		}
 
+<<<<<<< HEAD
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
@@ -963,11 +979,18 @@ namespace serialDome
         private void sw_com_Click(object sender, EventArgs e)
         {
 			sw_com.Items.Clear();
+=======
+        private void sw_com_Click(object sender, EventArgs e)
+        {
+			sw_com.Items.Clear();
+			//导入系统串口
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
 			foreach (string vPortName in SerialPort.GetPortNames())
 			{
 				sw_com.Items.Add(vPortName);
 			}
 		}
+<<<<<<< HEAD
 
         private void label19_Click(object sender, EventArgs e)
         {
@@ -1114,5 +1137,7 @@ namespace serialDome
         {
 			info_interface.SetModu(isOOK.Checked);
 		}
+=======
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
     }
 }

@@ -30,7 +30,10 @@
 		{
             this.components = new System.ComponentModel.Container();
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
             System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
             System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
@@ -38,6 +41,9 @@
             System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
             System.Windows.Forms.DataVisualization.Charting.Legend legend2 = new System.Windows.Forms.DataVisualization.Charting.Legend();
             System.Windows.Forms.DataVisualization.Charting.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series();
+<<<<<<< HEAD
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
+=======
 >>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.master = new System.IO.Ports.SerialPort(this.components);
@@ -46,6 +52,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.swtich = new System.Windows.Forms.Button();
             this.pn_master = new System.Windows.Forms.Panel();
+<<<<<<< HEAD
 <<<<<<< HEAD
             this.groupBox9 = new System.Windows.Forms.GroupBox();
             this.auto_save = new System.Windows.Forms.Button();
@@ -80,6 +87,8 @@
             this.rx_power = new System.Windows.Forms.Label();
             this.label26 = new System.Windows.Forms.Label();
 =======
+=======
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             this.reset = new System.Windows.Forms.Button();
             this.groupBox5 = new System.Windows.Forms.GroupBox();
             this.TDD_modu = new System.Windows.Forms.TextBox();
@@ -114,6 +123,9 @@
             this.label13 = new System.Windows.Forms.Label();
             this.power = new System.Windows.Forms.Label();
             this.label15 = new System.Windows.Forms.Label();
+<<<<<<< HEAD
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
+=======
 >>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.cn_rx = new System.Windows.Forms.Label();
@@ -121,6 +133,7 @@
             this.cn_tx = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.gb1 = new System.Windows.Forms.GroupBox();
+<<<<<<< HEAD
 <<<<<<< HEAD
             this.thres = new System.Windows.Forms.Label();
             this.txRate = new System.Windows.Forms.Label();
@@ -223,6 +236,8 @@
             this.panel4.SuspendLayout();
             this.groupBox15.SuspendLayout();
 =======
+=======
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             this.rxRate = new System.Windows.Forms.Label();
             this.label24 = new System.Windows.Forms.Label();
             this.txRate = new System.Windows.Forms.Label();
@@ -329,6 +344,9 @@
             this.groupBox14.SuspendLayout();
             this.groupBox15.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+<<<<<<< HEAD
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
+=======
 >>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             this.SuspendLayout();
             // 
@@ -346,15 +364,21 @@
             this.sw_com.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.sw_com.FormattingEnabled = true;
 <<<<<<< HEAD
+<<<<<<< HEAD
             this.sw_com.Location = new System.Drawing.Point(111, 14);
             this.sw_com.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.sw_com.Name = "sw_com";
             this.sw_com.Size = new System.Drawing.Size(125, 31);
 =======
+=======
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             this.sw_com.Location = new System.Drawing.Point(152, 9);
             this.sw_com.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.sw_com.Name = "sw_com";
             this.sw_com.Size = new System.Drawing.Size(133, 31);
+<<<<<<< HEAD
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
+=======
 >>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             this.sw_com.TabIndex = 0;
             this.sw_com.Click += new System.EventHandler(this.sw_com_Click);
@@ -368,15 +392,21 @@
             this.metroPanel1.HorizontalScrollbarHighlightOnWheel = false;
             this.metroPanel1.HorizontalScrollbarSize = 12;
 <<<<<<< HEAD
+<<<<<<< HEAD
             this.metroPanel1.Location = new System.Drawing.Point(157, 22);
             this.metroPanel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.metroPanel1.Name = "metroPanel1";
             this.metroPanel1.Size = new System.Drawing.Size(436, 58);
 =======
+=======
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             this.metroPanel1.Location = new System.Drawing.Point(15, 25);
             this.metroPanel1.Margin = new System.Windows.Forms.Padding(4);
             this.metroPanel1.Name = "metroPanel1";
             this.metroPanel1.Size = new System.Drawing.Size(492, 58);
+<<<<<<< HEAD
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
+=======
 >>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             this.metroPanel1.TabIndex = 11;
             this.metroPanel1.VerticalScrollbarBarColor = true;
@@ -388,7 +418,11 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
 <<<<<<< HEAD
+<<<<<<< HEAD
             this.label2.Location = new System.Drawing.Point(4, 16);
+=======
+            this.label2.Location = new System.Drawing.Point(24, 16);
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
 =======
             this.label2.Location = new System.Drawing.Point(24, 16);
 >>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
@@ -409,6 +443,7 @@
             this.swtich.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
             this.swtich.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
 <<<<<<< HEAD
+<<<<<<< HEAD
             this.swtich.Image = ((System.Drawing.Image)(resources.GetObject("swtich.Image")));
             this.swtich.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.swtich.Location = new System.Drawing.Point(251, 9);
@@ -416,12 +451,17 @@
             this.swtich.Name = "swtich";
             this.swtich.Size = new System.Drawing.Size(177, 44);
 =======
+=======
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             this.swtich.Image = global::serialDome.Properties.Resources.off;
             this.swtich.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.swtich.Location = new System.Drawing.Point(324, 2);
             this.swtich.Margin = new System.Windows.Forms.Padding(0);
             this.swtich.Name = "swtich";
             this.swtich.Size = new System.Drawing.Size(152, 49);
+<<<<<<< HEAD
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
+=======
 >>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             this.swtich.TabIndex = 6;
             this.swtich.Text = "打开串口";
@@ -432,6 +472,7 @@
             // pn_master
             // 
             this.pn_master.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+<<<<<<< HEAD
 <<<<<<< HEAD
             this.pn_master.Controls.Add(this.groupBox9);
             this.pn_master.Controls.Add(this.panel2);
@@ -866,6 +907,8 @@
             this.groupBox1.Font = new System.Drawing.Font("微软雅黑", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.groupBox1.Location = new System.Drawing.Point(5, -1);
 =======
+=======
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             this.pn_master.Controls.Add(this.reset);
             this.pn_master.Controls.Add(this.groupBox5);
             this.pn_master.Controls.Add(this.panel4);
@@ -1276,11 +1319,15 @@
             this.groupBox1.Controls.Add(this.label7);
             this.groupBox1.Font = new System.Drawing.Font("微软雅黑", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.groupBox1.Location = new System.Drawing.Point(3, 66);
+<<<<<<< HEAD
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
+=======
 >>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             this.groupBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.groupBox1.RightToLeft = System.Windows.Forms.RightToLeft.No;
+<<<<<<< HEAD
 <<<<<<< HEAD
             this.groupBox1.Size = new System.Drawing.Size(211, 104);
             this.groupBox1.TabIndex = 2;
@@ -1288,10 +1335,15 @@
             this.groupBox1.Text = "数据吞吐量";
             this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
 =======
+=======
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             this.groupBox1.Size = new System.Drawing.Size(299, 125);
             this.groupBox1.TabIndex = 2;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "数据吞吐量";
+<<<<<<< HEAD
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
+=======
 >>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             // 
             // cn_rx
@@ -1300,16 +1352,22 @@
             this.cn_rx.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.cn_rx.Font = new System.Drawing.Font("微软雅黑", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
 <<<<<<< HEAD
+<<<<<<< HEAD
             this.cn_rx.Location = new System.Drawing.Point(107, 64);
             this.cn_rx.Name = "cn_rx";
             this.cn_rx.Size = new System.Drawing.Size(93, 33);
             this.cn_rx.TabIndex = 3;
             this.cn_rx.Text = "0帧/s";
 =======
+=======
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             this.cn_rx.Location = new System.Drawing.Point(149, 81);
             this.cn_rx.Name = "cn_rx";
             this.cn_rx.Size = new System.Drawing.Size(139, 33);
             this.cn_rx.TabIndex = 3;
+<<<<<<< HEAD
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
+=======
 >>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             // 
             // label5
@@ -1317,7 +1375,11 @@
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("微软雅黑", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
 <<<<<<< HEAD
+<<<<<<< HEAD
             this.label5.Location = new System.Drawing.Point(5, 66);
+=======
+            this.label5.Location = new System.Drawing.Point(5, 82);
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
 =======
             this.label5.Location = new System.Drawing.Point(5, 82);
 >>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
@@ -1332,16 +1394,22 @@
             this.cn_tx.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.cn_tx.Font = new System.Drawing.Font("微软雅黑", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
 <<<<<<< HEAD
+<<<<<<< HEAD
             this.cn_tx.Location = new System.Drawing.Point(105, 25);
             this.cn_tx.Name = "cn_tx";
             this.cn_tx.Size = new System.Drawing.Size(95, 33);
             this.cn_tx.TabIndex = 1;
             this.cn_tx.Text = "0帧/s";
 =======
+=======
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             this.cn_tx.Location = new System.Drawing.Point(148, 38);
             this.cn_tx.Name = "cn_tx";
             this.cn_tx.Size = new System.Drawing.Size(139, 33);
             this.cn_tx.TabIndex = 1;
+<<<<<<< HEAD
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
+=======
 >>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             // 
             // label7
@@ -1349,7 +1417,11 @@
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("微软雅黑", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
 <<<<<<< HEAD
+<<<<<<< HEAD
             this.label7.Location = new System.Drawing.Point(5, 29);
+=======
+            this.label7.Location = new System.Drawing.Point(5, 38);
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
 =======
             this.label7.Location = new System.Drawing.Point(5, 38);
 >>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
@@ -1361,6 +1433,7 @@
             // gb1
             // 
 <<<<<<< HEAD
+<<<<<<< HEAD
             this.gb1.Controls.Add(this.thres);
             this.gb1.Controls.Add(this.txRate);
             this.gb1.Controls.Add(this.label6);
@@ -1368,17 +1441,23 @@
             this.gb1.Font = new System.Drawing.Font("微软雅黑", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.gb1.Location = new System.Drawing.Point(221, 0);
 =======
+=======
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             this.gb1.Controls.Add(this.rxRate);
             this.gb1.Controls.Add(this.label24);
             this.gb1.Controls.Add(this.txRate);
             this.gb1.Controls.Add(this.label25);
             this.gb1.Font = new System.Drawing.Font("微软雅黑", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.gb1.Location = new System.Drawing.Point(316, 66);
+<<<<<<< HEAD
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
+=======
 >>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             this.gb1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.gb1.Name = "gb1";
             this.gb1.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.gb1.RightToLeft = System.Windows.Forms.RightToLeft.No;
+<<<<<<< HEAD
 <<<<<<< HEAD
             this.gb1.Size = new System.Drawing.Size(275, 102);
             this.gb1.TabIndex = 0;
@@ -1397,6 +1476,8 @@
             this.thres.TabIndex = 3;
             this.thres.Text = "0mV";
 =======
+=======
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             this.gb1.Size = new System.Drawing.Size(299, 125);
             this.gb1.TabIndex = 0;
             this.gb1.TabStop = false;
@@ -1420,6 +1501,9 @@
             this.label24.Size = new System.Drawing.Size(117, 32);
             this.label24.TabIndex = 2;
             this.label24.Text = "接收速率：";
+<<<<<<< HEAD
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
+=======
 >>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             // 
             // txRate
@@ -1427,6 +1511,7 @@
             this.txRate.BackColor = System.Drawing.Color.White;
             this.txRate.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txRate.Font = new System.Drawing.Font("微软雅黑", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+<<<<<<< HEAD
 <<<<<<< HEAD
             this.txRate.Location = new System.Drawing.Point(121, 21);
             this.txRate.Name = "txRate";
@@ -1710,6 +1795,8 @@
             this.groupBox6.Font = new System.Drawing.Font("微软雅黑", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.groupBox6.Location = new System.Drawing.Point(391, 8);
 =======
+=======
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             this.txRate.Location = new System.Drawing.Point(148, 38);
             this.txRate.Name = "txRate";
             this.txRate.Size = new System.Drawing.Size(143, 33);
@@ -1833,11 +1920,15 @@
             this.groupBox6.Controls.Add(this.label30);
             this.groupBox6.Font = new System.Drawing.Font("微软雅黑", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.groupBox6.Location = new System.Drawing.Point(3, 2);
+<<<<<<< HEAD
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
+=======
 >>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             this.groupBox6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.groupBox6.Name = "groupBox6";
             this.groupBox6.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.groupBox6.RightToLeft = System.Windows.Forms.RightToLeft.No;
+<<<<<<< HEAD
 <<<<<<< HEAD
             this.groupBox6.Size = new System.Drawing.Size(257, 278);
             this.groupBox6.TabIndex = 17;
@@ -1880,6 +1971,8 @@
             0});
             this.dam_thres_interval.ValueChanged += new System.EventHandler(this.numericUpDown1_ValueChanged);
 =======
+=======
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             this.groupBox6.Size = new System.Drawing.Size(376, 128);
             this.groupBox6.TabIndex = 1;
             this.groupBox6.TabStop = false;
@@ -1939,11 +2032,15 @@
             this.label28.Size = new System.Drawing.Size(117, 32);
             this.label28.TabIndex = 2;
             this.label28.Text = "接收速率：";
+<<<<<<< HEAD
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
+=======
 >>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             // 
             // label30
             // 
             this.label30.Font = new System.Drawing.Font("微软雅黑", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+<<<<<<< HEAD
 <<<<<<< HEAD
             this.label30.Location = new System.Drawing.Point(4, 141);
             this.label30.Name = "label30";
@@ -2557,6 +2654,8 @@
             this.groupBox15.Font = new System.Drawing.Font("微软雅黑", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.groupBox15.Location = new System.Drawing.Point(394, 290);
 =======
+=======
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             this.label30.Location = new System.Drawing.Point(5, 38);
             this.label30.Name = "label30";
             this.label30.Size = new System.Drawing.Size(117, 32);
@@ -3219,11 +3318,15 @@
             this.groupBox15.Controls.Add(this.label61);
             this.groupBox15.Font = new System.Drawing.Font("微软雅黑", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.groupBox15.Location = new System.Drawing.Point(316, 66);
+<<<<<<< HEAD
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
+=======
 >>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             this.groupBox15.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.groupBox15.Name = "groupBox15";
             this.groupBox15.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.groupBox15.RightToLeft = System.Windows.Forms.RightToLeft.No;
+<<<<<<< HEAD
 <<<<<<< HEAD
             this.groupBox15.Size = new System.Drawing.Size(254, 74);
             this.groupBox15.TabIndex = 19;
@@ -3255,6 +3358,8 @@
             this.isPPM.UseVisualStyleBackColor = true;
             this.isPPM.Click += new System.EventHandler(this.isPPM_Click);
 =======
+=======
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             this.groupBox15.Size = new System.Drawing.Size(299, 125);
             this.groupBox15.TabIndex = 0;
             this.groupBox15.TabStop = false;
@@ -3307,6 +3412,9 @@
             this.pictureBox1.Size = new System.Drawing.Size(68, 62);
             this.pictureBox1.TabIndex = 10;
             this.pictureBox1.TabStop = false;
+<<<<<<< HEAD
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
+=======
 >>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             // 
             // Form1
@@ -3315,18 +3423,24 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BorderStyle = MetroFramework.Forms.MetroFormBorderStyle.FixedSingle;
 <<<<<<< HEAD
+<<<<<<< HEAD
             this.ClientSize = new System.Drawing.Size(1123, 729);
             this.Controls.Add(this.groupBox10);
             this.Controls.Add(this.pn_master);
             this.Controls.Add(this.metroPanel1);
             this.Controls.Add(this.reset);
 =======
+=======
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             this.ClientSize = new System.Drawing.Size(1411, 496);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.pn_master);
             this.Controls.Add(this.metroPanel1);
             this.Controls.Add(this.pn_set);
             this.Controls.Add(this.pn_slave);
+<<<<<<< HEAD
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
+=======
 >>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             this.Controls.Add(this.pictureBox1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
@@ -3334,6 +3448,10 @@
             this.Name = "Form1";
             this.Padding = new System.Windows.Forms.Padding(20, 75, 20, 20);
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+            this.Text = "      信息监测";
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
 =======
             this.Text = "      信息监测";
 >>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
@@ -3343,6 +3461,7 @@
             this.metroPanel1.ResumeLayout(false);
             this.metroPanel1.PerformLayout();
             this.pn_master.ResumeLayout(false);
+<<<<<<< HEAD
 <<<<<<< HEAD
             this.groupBox9.ResumeLayout(false);
             this.groupBox9.PerformLayout();
@@ -3381,6 +3500,8 @@
             this.groupBox15.ResumeLayout(false);
             this.groupBox15.PerformLayout();
 =======
+=======
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             this.pn_master.PerformLayout();
             this.groupBox5.ResumeLayout(false);
             this.groupBox5.PerformLayout();
@@ -3420,6 +3541,9 @@
             this.groupBox14.PerformLayout();
             this.groupBox15.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+<<<<<<< HEAD
+>>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
+=======
 >>>>>>> ecce09b9212c6822719867dd9c3155ebb2e9b5ee
             this.ResumeLayout(false);
 
